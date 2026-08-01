@@ -1,0 +1,48 @@
+# ==========================================
+# FreeCAD Git Ignore Rules
+# ==========================================
+# Sequential backup files (FreeCAD saves copies as .FCStd1, .FCStd2, etc.)
+*.FCStd[0-9]*
+*.FCStd.bak
+*~
+
+# Lock files (created when a file is open)
+*.FCLock
+
+# ==========================================
+# KiCad Git Ignore Rules
+# ==========================================
+# Local configuration and window layout
+*.kicad_prl
+*.kicad_pcb-bak
+*.kicad_sch-bak
+
+# Temporary rescue and cache files
+*-rescue.lib
+*-cache.lib
+*.kicad_wks-bak
+
+# ==========================================
+# macOS System Hidden Files
+# ==========================================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Files that may be created on foreign filesystems
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# ==========================================
+# Other OS and IDE Temporary Files
+# ==========================================
+Thumbs.db
+.vscode/
+.idea/
+
