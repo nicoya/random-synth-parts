@@ -13,3 +13,8 @@ These should print easily face-up, though some tweaking may be needed to get a s
 These 3d printable button caps fit the volume and Mode / Part Tone sliders on the Casio SK-5 and identical Realistic Concertmate 650.
 
 These can be printed face-up on an FDM printer with supports, but will probably come out a bit better on a resin printer.
+
+## Roland D-70 Foot
+This is a foot for the Roland D-70. It's designed to be printed in hard plastic like PLA or PETG and has an M6x1 threaded hole.
+
+You should probably just buy some generic rubber feet and use those instead. I made this because I ran out and didn't feel like waiting for a delivery.
